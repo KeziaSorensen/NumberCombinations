@@ -1,0 +1,1 @@
+A grade 12 school assignment. The instructions were to make a recursive algorithm that finds the number of times 2 numbers (4 and 5 in this case) can be added to make another number (35 in this case).
